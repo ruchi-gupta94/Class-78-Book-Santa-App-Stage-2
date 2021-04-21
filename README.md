@@ -1,2 +1,2 @@
-# Class-78-Book-Santa-App-Stage-2
-Class 78 Book Santa App Stage 2
+# book-santa-stage-2
+Stage - 2
